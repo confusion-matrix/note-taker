@@ -9,7 +9,7 @@ existing notes.
 - The application should be deployed in Heroku.
 
 ## Installation
-- Available on: 
+- Available on: https://note-taker-ucrep.herokuapp.com/
 
 ## Usage
 - To create a note click on the plus sign in the top right corner
